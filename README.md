@@ -3,19 +3,22 @@
 ***
 
 **The Bare Bones**
+
 http://codewithwes.com/articles/beginning-web-development-the-foundation
 
 **Text Editor**
+
 Download Sublime Text Editor.  https://www.sublimetext.com/3
 
 Watch Videos on how to used editor http://code.tutsplus.com/articles/perfect-workflow-in-sublime-text-free-course--net-27293
 
 **Git Workflow**
+
 Setup an account at GitHub
 
 https://github.com/
 
-Videos on using git
+**Videos on using git**
 
 http://code.tutsplus.com/tutorials/the-perfect-workflow-with-git-github-and-ssh--net-19564
 
