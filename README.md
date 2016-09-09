@@ -8,9 +8,13 @@ http://codewithwes.com/articles/beginning-web-development-the-foundation
 
 **Text Editor**
 
-Download Sublime Text Editor.  https://www.sublimetext.com/3
+Download Sublime Text Editor
 
-Watch Videos on how to used editor http://code.tutsplus.com/articles/perfect-workflow-in-sublime-text-free-course--net-27293
+https://www.sublimetext.com/3
+
+Watch Videos on how to used editor
+
+http://code.tutsplus.com/articles/perfect-workflow-in-sublime-text-free-course--net-27293
 
 **Git Workflow**
 
